@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://markoshelps.github.io/bestsecret-invitation-link/sitemap.xml
+Sitemap: https://deal-spot.github.io/bestsecret-invitation-access/sitemap.xml
