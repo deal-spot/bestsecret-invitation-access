@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://markoshelps.github.io/bestsecret-invitation-link/sitemap.xml
